@@ -4,7 +4,7 @@ A project, created in course DIT638 Cyberphysical Systems. The core of the proje
 This project was devevloped on Gitlab and then transfered to Github
 
 # Required steps to build and run: 
-Please follow the steps in [projectSetup.pdf](https://github.com/DetailsMatterM/CyberphysicalSystemsProject/blob/master/projectSetup.pdf) to setup and run the project on your machine
+Please follow the steps in [projectSetup.pdf](https://github.com/Fredrik93/Cyberphysical-systems/blob/main/projectSetup.pdf) to setup and run the project on your machine
 
 
 # Team:
